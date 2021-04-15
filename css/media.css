@@ -1,0 +1,10 @@
+
+
+/*للموبايلات */
+@media (max-width :767px){
+    .navbar-inverse .navbar-nav>.active>a {
+        margin-left: 0px;
+       
+
+}
+}/*لشاشات الجبيره */

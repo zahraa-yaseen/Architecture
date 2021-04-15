@@ -1,0 +1,133 @@
+body{
+background: rgba(140, 142, 144, 0.333);
+}
+#main{
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    opacity: 1.8;
+}
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>li>a:hover,
+.navbar-inverse .navbar-nav>li>a:focus {
+  color:darkred;
+  border:  solid 2px darkturquoise;
+  background: none;
+  color:darkturquoise;
+  
+}
+.navbar-inverse .navbar-nav>.active>a{
+    margin-left: 69px;
+    background: none;
+    color:darkturquoise;
+    border:  solid 2px darkturquoise;
+    background: none;
+}
+a{
+    padding: 0%;
+}
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>li>a,
+.navbar-inverse .navbar-nav>li>a {
+  padding: 5px 15px;
+  
+}
+
+
+.sect1{
+  background-image: url(../imag/back.jpg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+ 
+  height: 330px;
+
+
+}
+.art1{
+  background-color: rgba(0, 0, 0, 0.7);
+  opacity:0.65;
+  height: 330px;
+}
+.h1home{
+  font-size: 49px;
+  color: white;
+  text-align: center;
+  padding-top: 83px;
+  margin-top: 0;
+  font-weight: bold;
+}
+.phome{
+  font-size: 22px;
+  color: white;
+  text-align: center;
+  
+
+}
+.pabout{
+  color: black;
+  font-size: 16px;
+  font-family: emoji;
+}
+.h1about ,.h1project,.h1contect{
+
+  text-align: center;
+  
+}
+.img-responsive{
+  height: 300px;
+  border-radius: 15px;
+  width: 400px;
+  border: solid 1px ;
+  padding: 3px;
+}
+.sect2{
+  margin-bottom: 100PX;
+}
+.sect3{
+ 
+  background-color: rgba(140, 142, 144, 0.333);
+  padding-bottom: 90px;
+}
+.sect4{
+padding-top: 100px;
+}
+input{
+  margin-top: 10px;
+}
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+margin-top: 5px;}
+  .navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  color:cornflowerblue;
+  background-color:#101010;;
+  border-radius: 15px;
+  
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: cornflowerblue;
+  background-color:#101010;;
+  border-radius: 15px;
+  
+}
+.navbar {
+ 
+ 
+  margin-bottom: 0px;
+}
+
+  
+.contain{
+background-color: #101010;
+text-align: center;
+line-height: 56x;
+color:#726767;
+padding: 10px;
+}
+
+h2{
+  font-size: 20px;
+}
+
